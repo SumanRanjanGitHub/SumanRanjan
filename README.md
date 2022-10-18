@@ -1,12 +1,10 @@
 👋 Hi, I’m @SumanRanjanPattanayak
 
-👀 I’m interested in Developing & Designing Websites, Softwares, Games
+👀 I’m interested in Learning and Developing new skills in Software sector
 
 👨‍💼 I’m an Associate Software Engineer @Accenture
 
 📈 More about Me:-
-
-     ▶️ https://www.youtube.com/c/SRPGamingDevops
    
      💌 https://www.instagram.com/suman_ranjan_pattanayak/
 <!---
