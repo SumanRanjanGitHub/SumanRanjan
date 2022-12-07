@@ -1,4 +1,4 @@
-👋 Hi, I’m @SumanRanjan
+👋 Hi, I’m @SumanRanjanPattanayak
 
 👀 I’m interested in Learning and Developing new skills in Software sector
 
